@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efereda&label=Profile%20views&color=0e75b6&style=flat" alt="efereda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efereda" alt="efereda" /></a> </p>
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=efereda&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 - 🔭 I’m currently working on [NOTED](https://github.com/4GeeksAcademy/proyecto-final-pt53-grupo3)
 
