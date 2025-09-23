@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eduardo Fereda</h1>
 <h3 align="center">Desarrollador Full Stack</h3>
 
+<img src="https://imgur.com/UWCU8p1.jpg">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efereda&label=Profile%20views&color=0e75b6&style=flat" alt="efereda" /> </p>
 
 <div align=center>
